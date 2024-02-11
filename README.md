@@ -2,7 +2,7 @@
 - 👀 I’m interested in Money
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Science Project
-- 📫 How to reach me anmolsingh5319@gmail.com
+- 📫 How to reach me contactofficiallytoanmol@gmail.com
   
 
 <!---
