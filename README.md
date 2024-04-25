@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnmolSinghGangwar
-- 👀 I’m interested in Money
+- 👀 I’m interested in Collabrative Projects
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Science Project
 - 📫 How to reach me contactofficiallytoanmol@gmail.com
